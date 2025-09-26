@@ -1,0 +1,13 @@
+{
+    "name": "SmartCityLibrary",
+    "version": "3.5.2",
+	"installed_path": "./UnrealEngine/Engine/Plugins/51Hitech/",
+    "dependencies": [{
+        "name": "VaRest",
+        "version": "[2.0.1,)"
+    },
+    {
+        "name": "AesCommon",
+        "version": "[1.0.0,)"
+    }]
+}

@@ -1,0 +1,26 @@
+{
+  "FileVersion": 3,
+  "Version": 3,
+  "VersionName": "3.5.2",
+  "FriendlyName": "SmartCityLibrary",
+  "Description": "",
+  "Category": "",
+  "CreatedBy": "",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "EngineVersion": "5.5.0",
+  "CanContainContent": true,
+  "Installed": true,
+  "Modules": [
+    {
+      "Name": "SmartCityLibrary",
+      "Type": "Runtime",
+      "LoadingPhase": "Default",
+      "WhitelistPlatforms": [
+        "Win64"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+.git/
+Saved/
+Build/
+Intermediate/
+DerivedDataCache/
+.vs/
+Binaries/
+*.sln
+*.idea
+Releases
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+Plugins/*/Config/
+Plugins/DTFrameTemplete/doc/
+StagedBuilds
+Samples
+WebCache/
